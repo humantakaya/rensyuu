@@ -1,0 +1,3 @@
+Anaconda propmptを起動
+jupyter labと入力
+urlをコピペしてブラウザに入力
